@@ -1,0 +1,16 @@
+C:\Users\Enrique\Desktop\C# Docs\ejerciciosParteTres\ejerciciosParteTres\bin\Debug\net5.0\ejerciciosParteTres.exe
+C:\Users\Enrique\Desktop\C# Docs\ejerciciosParteTres\ejerciciosParteTres\bin\Debug\net5.0\ejerciciosParteTres.deps.json
+C:\Users\Enrique\Desktop\C# Docs\ejerciciosParteTres\ejerciciosParteTres\bin\Debug\net5.0\ejerciciosParteTres.runtimeconfig.json
+C:\Users\Enrique\Desktop\C# Docs\ejerciciosParteTres\ejerciciosParteTres\bin\Debug\net5.0\ejerciciosParteTres.runtimeconfig.dev.json
+C:\Users\Enrique\Desktop\C# Docs\ejerciciosParteTres\ejerciciosParteTres\bin\Debug\net5.0\ejerciciosParteTres.dll
+C:\Users\Enrique\Desktop\C# Docs\ejerciciosParteTres\ejerciciosParteTres\bin\Debug\net5.0\ref\ejerciciosParteTres.dll
+C:\Users\Enrique\Desktop\C# Docs\ejerciciosParteTres\ejerciciosParteTres\bin\Debug\net5.0\ejerciciosParteTres.pdb
+C:\Users\Enrique\Desktop\C# Docs\ejerciciosParteTres\ejerciciosParteTres\obj\Debug\net5.0\ejerciciosParteTres.csprojAssemblyReference.cache
+C:\Users\Enrique\Desktop\C# Docs\ejerciciosParteTres\ejerciciosParteTres\obj\Debug\net5.0\ejerciciosParteTres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enrique\Desktop\C# Docs\ejerciciosParteTres\ejerciciosParteTres\obj\Debug\net5.0\ejerciciosParteTres.AssemblyInfoInputs.cache
+C:\Users\Enrique\Desktop\C# Docs\ejerciciosParteTres\ejerciciosParteTres\obj\Debug\net5.0\ejerciciosParteTres.AssemblyInfo.cs
+C:\Users\Enrique\Desktop\C# Docs\ejerciciosParteTres\ejerciciosParteTres\obj\Debug\net5.0\ejerciciosParteTres.csproj.CoreCompileInputs.cache
+C:\Users\Enrique\Desktop\C# Docs\ejerciciosParteTres\ejerciciosParteTres\obj\Debug\net5.0\ejerciciosParteTres.dll
+C:\Users\Enrique\Desktop\C# Docs\ejerciciosParteTres\ejerciciosParteTres\obj\Debug\net5.0\ref\ejerciciosParteTres.dll
+C:\Users\Enrique\Desktop\C# Docs\ejerciciosParteTres\ejerciciosParteTres\obj\Debug\net5.0\ejerciciosParteTres.pdb
+C:\Users\Enrique\Desktop\C# Docs\ejerciciosParteTres\ejerciciosParteTres\obj\Debug\net5.0\ejerciciosParteTres.genruntimeconfig.cache
